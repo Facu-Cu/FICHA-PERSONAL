@@ -42,14 +42,14 @@
 </head>
 <body>
     <div class="container">
-        <img src="tu_foto.jpg" alt="Mi foto">
+        <img src="WhatsApp Image 2024-07-03 at 14.25.35.jpeg" alt="Foto de Perfil">
         <h1>Juan Facundo Cuñarro</h1>
         <ul>
             <li><strong>Carrera:</strong> Tecnicatura Universitaria en Desarrollo de Software</li>
             <li><strong>Materia:</strong> Diseño y Desarrollo Web</li>
             <li><strong>Email:</strong> Juanfacundo695@gmail.com</li>
             <li><strong>Teléfono:</strong> +54 11-69396827</li>
-            <li><strong>Ubicación:</strong> Buenos Aires, Argentina</li>
+            <li><strong>Ubicación:</strong> Buenos aires, Argentina</li>
         </ul>
     </div>
 </body>
